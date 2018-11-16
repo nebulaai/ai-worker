@@ -20,4 +20,4 @@ The latest version is 1.0.0
 
 # Step-by-step guideline #
 
-Please check : https://orioncloud.io/ai-workers.html
+Please check : https://orioncloud.io/ai-workers.html#step-by-step
