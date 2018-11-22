@@ -12,6 +12,7 @@ initial version of ai worker for Orion platform
 
 2018-11-22 |  0.0.1  
 -Add UTC timestamp in worker terminal prompt
+
 -Resolve and specify hardware recognition error
 
 
