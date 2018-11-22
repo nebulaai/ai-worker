@@ -4,10 +4,16 @@ AI Workers are computing resource providers in orion cloud. They rent out their 
 By simply running a few commands, individual machine with GPU may download and install client package, join orion network as an AI worker which allows them to be listed on developer dashboard. Such hosting allows automatically receiving tasks from orion task pool, and receive rewards upon successful computing.
 
 # latest version
-The latest version is 1.0.0
+The latest version is v0.0.1
 
 # update history
-2018-11-16 |  1.0.0   | initial version of ai worker for Orion platform
+2018-11-16 |  0.0.0  
+initial version of ai worker for Orion platform
+
+2018-11-22 |  0.0.1  
+-Add UTC timestamp in worker terminal prompt
+-Resolve and specify hardware recognition error
+
 
 # System Prerequisite #
 
