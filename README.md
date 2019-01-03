@@ -8,7 +8,7 @@ The latest version is v0.1.1
 
 # update history
 2018-11-16 |  0.0.0  
-initial version of ai worker for Orion platform
+-initial version of ai worker for Orion platform
 
 2018-11-22 |  0.0.1  
 -Add UTC timestamp in worker terminal prompt
@@ -16,6 +16,7 @@ initial version of ai worker for Orion platform
 -Resolve and specify hardware recognition error
 
 2018-12-11 |  0.1.1
+
 -Added task script running Traceback in execution log
 
 -Performance tested for AI worker network connection
