@@ -131,6 +131,7 @@ All code is licenced under GNU General Public License v3.0.
 
 * [Orion cloud website](https://orioncloud.io/)
 * [Orion cloud user guide](https://orioncloud.io/ai.html)
+* [Orion cloud AI worker](https://orioncloud.io/ai-workers.html)
 * [Nebula AI block browser](https://scan.nbai.io/#/)
 * [Nebula AI Blockchain Node](https://github.com/nebulaai/nbai-node)
 * [Nvidia-drivers](https://www.nvidia.com/Download/index.aspx)
