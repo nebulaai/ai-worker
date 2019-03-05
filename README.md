@@ -11,15 +11,11 @@
 
 Official Orion AI worker software release.
 
-## What is AI worker
+## AI worker V2
 
 **AI Workers** are computing resource providers in [orion cloud platform](https://orioncloud.io/). They execute AI tasks and receive NBAI as rewards. 
 Individual GPU machine may download latest packages, install and join into Orion network. 
 By simply running a few commands, AI tasks from Orion will be automatically dispatched to AI workers, you will be able to rent out your computing power for a real profit.     
-
-# Nebula AI Worker v2
-
-This instruction is for Nebula AI Worker v2.
 
 ### Prerequisites
 
@@ -93,9 +89,15 @@ This instruction is for Nebula AI Worker v2.
  ./launch_nbai_worker
  ```
 
-
 ## Release History
 
+2019-03-05
+
+ **v2.0.1**
+ - Dual mining mode.
+ - Deposite in terminal.
+ - Add support for ubuntu 18.04 
+ 
 2019-01-23
 
  **v1.1.1**
