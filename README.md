@@ -46,7 +46,7 @@ By simply running a few commands, AI tasks from Orion will be automatically disp
  * Open a terminal on the folder just extracted(right click on the folder and select 'Open in Terminal'), and enter
  
  ```bash
- cd ./installer
+ cd installer
  chmod +x ./install.sh
  sudo ./install.sh
  ```   
