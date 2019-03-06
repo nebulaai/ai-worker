@@ -13,7 +13,7 @@ Orion AI Worker 官方软件发布.
 
 ## AI Worker 版本 V2
 
-**AI Workers** 是 [Orion 云端平台](https://orioncloud.io/)中的资源提供者. 他们执行 AI 任务并获得 NBAI 币作为奖励. 
+**AI Workers** 是 [Orion 云计算平台](https://orioncloud.io/)中的资源提供者。他们执行 AI 任务并获得 NBAI 币作为奖励。
 每个 GPU 机器可以下载最新的任务包，安装并加入 Orion 网络。 
 通过简单地运行一些命令，Orion 的 AI 任务将自动被分配给 AI Worker，您将能够出租您的计算力以获得真正的利润。
 
@@ -23,11 +23,11 @@ Orion AI Worker 官方软件发布.
 
 * CPU
 
-    Intel Sandy Bridge (2011) 架构或更新版本, 英特尔® 酷睿™ i3 处理器或更高
+    Intel Sandy Bridge (2011) 架构或更新版本, 英特尔® 酷睿™ i3 处理器或更高。
     
 * GPU
 
-    至少一个具有 CUDA® Compute Capability 3.5 或更高算力的 NVIDIA® GPU 卡. 查看 [具有 CUDA 的 NVIDIA® GPU 卡](https://developer.nvidia.com/cuda-gpus).
+    至少一个具有 CUDA® Compute Capability 3.5 或更高算力的 NVIDIA® GPU 卡。查看 [具有 CUDA 的 NVIDIA® GPU 卡](https://developer.nvidia.com/cuda-gpus)。
 
 ##### 系统要求
 
