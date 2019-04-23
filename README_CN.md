@@ -13,7 +13,7 @@ Orion AI Worker 官方软件发布.
 
 ## AI Worker 版本 V2
 
-**AI Workers** 是 [Orion 云计算平台](https://orioncloud.io/)中的资源提供者。他们执行 AI 任务并获得 NBAI 币作为奖励。
+**AI Workers** 是 [Orion 云计算平台](https://nbai.io/)中的资源提供者。他们执行 AI 任务并获得 NBAI 币作为奖励。
 每个 GPU 机器可以下载最新的任务包，安装并加入 Orion 网络。 
 通过简单地运行一些命令，Orion 的 AI 任务将自动被分配给 AI Worker，您将能够出租您的计算力以获得真正的利润。
 
@@ -69,7 +69,7 @@ Orion AI Worker 官方软件发布.
    ```
    1. 您可以选择 "ledger" 和 "node"。您可以选择首选服务提供商或使用我们提供的默认服务。
       
-      点击查看 [Orion cloud](https://orioncloud.io/dashboard/#/worker/general) 我们官方提供的服务选项。
+      点击查看 [Orion cloud](https://nbai.io/dashboard/#/worker/general) 我们官方提供的服务选项。
       
    2. "wallet" 是用于支付和收取 NBAI 币。支付 Worker 的费用将会从此钱包中支出，挖矿和执行任务的收益将会存入此钱包。
       
@@ -126,7 +126,7 @@ Orion AI Worker 官方软件发布.
 
 ## 获得帮助
 
-有关 AI Worker 的任何问题，请在此提交 [email requests](https://orioncloud.io/contact.html).
+有关 AI Worker 的任何问题，请在此提交 [email requests](https://nbai.io/contact.html).
 
 ## 许可证
 
@@ -134,9 +134,9 @@ Orion AI Worker 官方软件发布.
 
 ## Resources
 
-* [Orion cloud 官网](https://orioncloud.io/)
-* [Orion cloud 用户手册](https://orioncloud.io/ai.html)
-* [Orion cloud AI worker](https://orioncloud.io/ai-workers.html)
+* [Orion cloud 官网](https://nbai.io/)
+* [Orion cloud 用户手册](https://nbai.io/ai.html)
+* [Orion cloud AI worker](https://nbai.io/ai-workers.html)
 * [Nebula AI block browser](https://scan.nbai.io/#/)
 * [Nebula AI Blockchain Node](https://github.com/nebulaai/nbai-node)
 * [Nvidia-drivers](https://www.nvidia.com/Download/index.aspx)
