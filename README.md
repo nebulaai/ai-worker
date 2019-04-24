@@ -13,7 +13,7 @@ Official Orion AI worker software release.
 
 ## AI worker V2
 
-**AI Workers** are computing resource providers in [orion cloud platform](https://orioncloud.io/). They execute AI tasks and receive NBAI as rewards. 
+**AI Workers** are computing resource providers in [orion cloud platform](https://nbai.io/). They execute AI tasks and receive NBAI as rewards. 
 Individual GPU machine may download latest packages, install and join into Orion network. 
 By simply running a few commands, AI tasks from Orion will be automatically dispatched to AI workers, you will be able to rent out your computing power for a real profit.     
 
@@ -69,7 +69,7 @@ By simply running a few commands, AI tasks from Orion will be automatically disp
    ```
    1. "ledger" and "node" are on your choice. You can choose you preferred service provider or use the default we provided.
       
-      Check our [Orion cloud](https://orioncloud.io/dashboard/#/worker/general) for all available official choices.
+      Check our [Orion cloud](https://nbai.io/dashboard/#/worker/general) for all available official choices.
       
    2. "wallet" is used to pay and receive NBAI. Deposit for worker will be charged to this wallet, and output from mining and doing task will be saved to this wallet.
       
@@ -126,7 +126,7 @@ By simply running a few commands, AI tasks from Orion will be automatically disp
 
 ## Getting help
 
-For questions, issues regarding ai worker, please submit [email requests](https://orioncloud.io/contact.html).
+For questions, issues regarding ai worker, please submit [email requests](https://nbai.io/contact.html).
 
 ## Licence
 
@@ -134,9 +134,9 @@ All code is licenced under GNU General Public License v3.0.
 
 ## Resources
 
-* [Orion cloud website](https://orioncloud.io/)
-* [Orion cloud user guide](https://orioncloud.io/ai.html)
-* [Orion cloud AI worker](https://orioncloud.io/ai-workers.html)
+* [Orion cloud website](https://nbai.io/)
+* [Orion cloud user guide](https://nbai.io/ai.html)
+* [Orion cloud AI worker](https://nbai.io/ai-workers.html)
 * [Nebula AI block browser](https://scan.nbai.io/#/)
 * [Nebula AI Blockchain Node](https://github.com/nebulaai/nbai-node)
 * [Nvidia-drivers](https://www.nvidia.com/Download/index.aspx)
